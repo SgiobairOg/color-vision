@@ -12,9 +12,9 @@ None at the moment. If you find one, please submit an issue but please observe t
 
 ## Release Notes
 
-### 1.0.0
+### 0.1.0
 
-Initial release of Color Vision with support for HEX and RGBX colorspaces.
+Initial release of Color Vision with support for HEX and RGBX colorspaces. Now available in the VS Code Extention Marketplace <https://marketplace.visualstudio.com/items?itemName=wilsonsio.color-vision>
 
 **Enjoy!**
 
