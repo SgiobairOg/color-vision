@@ -1,5 +1,7 @@
 # Color Vision
 
+![](https://img.shields.io/visual-studio-marketplace/r/wilsonsio.color-vision)
+
 Color Vision is a utility extension for VSCode that provides a way of visualizing colors in your documents.
 
 ## Features
