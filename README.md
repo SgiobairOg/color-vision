@@ -9,7 +9,7 @@ Color Vision is a utility extension for VSCode that provides a way of visualizin
 
 Color Vision detects HEX, HEXA, RGB, and RGBA and displays a color swatch next to the color value so that you can see exactly how the color will look.
 
-![alt text](resources/images/usage_15102019_512.gif "Example usage of the Color Vision extension showing color swatches being added to HEX and RGB color definitions")
+![Example usage of the Color Vision extension showing color swatches being added to HEX and RGB color definitions](resources/images/usage_15102019_512.gif )
 
 ## Known Issues
 
