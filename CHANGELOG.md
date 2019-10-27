@@ -6,6 +6,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.1.1] - Readme and License Updates
+
+Added Rating and Version Badges to the readme with Hacktoberfest Commits from @fsjoyti and @andregallacci.
+
+Added animation demonstrating the plugin with Hacktoberfest Commits from @pradipta007.
+
+Thanks for your contributions and Happy Hacktoberfest!
+
+Added [Parity Public License](https://paritylicense.com/) to the project.
+
 ## [0.1.0] - Initial VS Code Marketplace Release 15 October 2019
 
 ### Changed
@@ -22,6 +32,7 @@ Published v0.1.0 to the Marketplace at <https://marketplace.visualstudio.com/ite
 - CODE-OF-CONDUCT.md
 - Project configurations and boilerplate
 
-[Unreleased]: https://www.github.com/SgiobairOg/color-vision/compare/v0.0.1...HEAD
+[unreleased]: https://www.github.com/SgiobairOg/color-vision/compare/v0.1.1...HEAD
+[0.1.1]: https://www.github.com/SgiobairOg/color-vision/compare/v0.1.0...v0.1.1
 [0.1.0]: https://www.github.com/SgiobairOg/color-vision/compare/v0.0.1...v0.1.0
 [0.0.1]: https://www.github.com/SgiobairOg/color-vision/releases/tag/v0.0.1
