@@ -44,7 +44,7 @@ export function activate(context: vscode.ExtensionContext) {
   const hexColorsPattern = /(#[0-9A-Fa-f]{8}\b|#[0-9A-Fa-f]{6}\b|#[0-9A-Fa-f]{3}\b)/gim;
   // You can view and debug this regex at https://www.debuggex.com/r/NXCGLPeNmZf8yl35
 
-  const rgbxColorsPattern = /(rgba\((1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]),(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]),(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]),(0?.?[0-9]+|1.0+|1)\)|rgb\((1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]),(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]),(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5])\))/gim;
+  const rgbxColorsPattern = /(rgba\((1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]), ?(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]), ?(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]), ?(0?.?[0-9]+|1.0+|1)\)|rgb\((1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]), ?(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5]), ?(1?[0-9]{1,2}|2[0-4][0-9]|25[0-5])\))/gim;
   // You can view and debug this regex at https://www.debuggex.com/r/UqTPyhSv1LWC4eKV
 
   disposables.push(hexColorDecorationType);
